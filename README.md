@@ -19,9 +19,9 @@ N/A
 
 ## Links
 
-[Git Hub]()
+[Git Hub](https://github.com/HaydenLenca/HaydenLenca-React-Portfolio)
 
-[Deployed Site]()
+[Deployed Site](https://haydenlenca.github.io/HaydenLenca-React-Portfolio/)
 
 ## License
 MIT
