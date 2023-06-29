@@ -5,11 +5,9 @@ export default function Contact() {
     <div>
       <h1>Contact Page</h1>
       <p>
-        this is where i will add contact info 
+        need Contact input
       </p>
-      <p>Hayden Lenca</p>
-      <p>(906)290-####</p>
-      <p>Email. Hl****@**.com</p>
+      
     </div>
     
   );

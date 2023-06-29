@@ -5,7 +5,7 @@ export default function Blog() {
     <div>
       <h1>Resume Page</h1>
       <p>
-        i will 
+        need a downladable link
       </p>
     </div>
   );
