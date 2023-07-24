@@ -3,8 +3,9 @@ import Project from '../Project';
 import p1img from './images/prework.png';
 import p2img from './images/CoffeeWalks.png';
 import p3img from './images/project3.png';
-import p4img from './images/Password-display.png'
-import p5img from './images/Screenshot (23).png'
+import p4img from './images/Password-display.png';
+import p5img from './images/Screenshot (23).png';
+import p6img from './images/Screenshot (31).png';
 
 
 export default function Home() {
@@ -39,7 +40,12 @@ export default function Home() {
       github: 'https://github.com/HaydenLenca/Your-Calander-Log',
       deploy: 'https://haydenlenca.github.io/Your-Calander-Log/'
     },
-    
+    {
+      title: 'Hitched and Gliched',
+      image: p6img,
+      github: 'https://github.com/erin-m-keller/hitched-and-glitched',
+      deploy: 'https://hitched-and-glitched-697b7a3de50f.herokuapp.com/',
+    }
   ];
 
   return (
