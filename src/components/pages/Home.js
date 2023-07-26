@@ -45,7 +45,7 @@ export default function Home() {
       image: p6img,
       github: 'https://github.com/erin-m-keller/hitched-and-glitched',
       deploy: 'https://hitched-and-glitched-697b7a3de50f.herokuapp.com/',
-    }
+    },
   ];
 
   return (
