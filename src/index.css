@@ -11,3 +11,75 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Nav and header name */
+.sideNav {
+  height: 100%; /* Full-height: remove this if you want "auto" height */
+  width: 80px; /* Set the width of the sidebar */
+  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: #111; /* Black */
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 20px;
+}
+
+/* The navigation menu links */
+.sideNav a {
+  text-align: center;
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 15px;
+  color: #d86405;
+  display: block;
+}
+
+.pageHeader {
+  background-color: green;
+  text-align: center;
+}
+
+/* About page */
+.image {
+  height: 400px;
+  padding-left: 80px;
+  padding-right: 20px;
+}
+
+.aboutP {
+  margin-left: 100px;
+  margin-top: 50px;
+  color: aquamarine;
+}
+
+.background {
+  background-image: url('/src/components/pages/images/black.jpg');
+  background-size: cover;
+  height: 1200px;
+}
+
+.alignment {
+  display: flex;
+}
+
+/* Footer */
+.footer {
+  background-color: green;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  display: inline;
+  padding-left: 80px;
+  width: 100%;
+}
+
+.footer div p {
+  color: #d86405;
+  font-size: 30px;
+}
+
+/* portfolio page */
+.navAdjust {
+  padding-left: 80px;
+}

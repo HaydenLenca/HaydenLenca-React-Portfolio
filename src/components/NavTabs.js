@@ -1,17 +1,11 @@
 import React from 'react';
 
-const styles = {
-  navbarStyle: {
-    background: 'orange',
-    justifyContent: 'flex-end',
-  },
-};
 
 function NavTabs({ currentPage, handlePageChange }) {
   return (
     <><header>
-    <h1 style={styles.navbarStyle}>Hayden Lenca</h1>
-    <ul style={styles.navbarStyle}  className="nav nav-tabs">
+    <h1 className='pageHeader'>Hayden Lenca</h1>
+    <ul  className="sideNav nav nav-tabs">
       <li className="nav-item">
         <a
           href="#home"
@@ -48,6 +42,14 @@ function NavTabs({ currentPage, handlePageChange }) {
           Contact
         </a>
       </li>
+      <li>Skill</li>
+      <li>
+        <a href='https://github.com/HaydenLenca'>Git Hub</a>
+      </li>
+      <li>
+        <a href='https://www.linkedin.com/in/hayden-lenca-500177281/'>LinkedIn</a>
+      </li>
+      
     </ul>
     </header>
     </>

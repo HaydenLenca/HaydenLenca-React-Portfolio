@@ -1,10 +1,11 @@
 import React from 'react';
 
 function Project({project}) {
-  const {title, image, github, deploy} = project;
+  const {title, image, github, deploy, description} = project;
 
   return (
     <div key={title} className="col-lg-4 col-md-6 mb-4">
+
     <div className="card h-100">
       <img src={image} className="card-img-top" alt={title} />
       <div className="card-body">
@@ -22,6 +23,9 @@ function Project({project}) {
         </a>
       </div>
     </div>
+    <div>
+      <p>{description}</p>
+      </div>
   </div>
   );
 }

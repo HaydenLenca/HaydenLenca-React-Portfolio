@@ -14,7 +14,8 @@ export default function Home() {
       title: 'Pre-Work',
       image: p1img,
       github: 'https://github.com/HaydenLenca/prework-study-guide',
-      deploy: 'https://haydenlenca.github.io/prework-study-guide/'
+      deploy: 'https://haydenlenca.github.io/prework-study-guide/',
+      description: 'Im not sure this is how it works'
     },
     {
       title: 'Coffee Walks (group project)',
