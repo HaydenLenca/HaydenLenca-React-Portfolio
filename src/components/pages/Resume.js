@@ -8,7 +8,7 @@ import React from 'react';
 
 export default function Blog() {
   return (
-    <div>
+    <div className='navAdjust'>
       <h1>Resume Page</h1>
       
       <div className="resume-download">

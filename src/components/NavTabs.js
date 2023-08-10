@@ -42,7 +42,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           Contact
         </a>
       </li>
-      <li>Skill</li>
+      {/* <li>Skill</li> */}
       <li>
         <a href='https://github.com/HaydenLenca'>Git Hub</a>
       </li>

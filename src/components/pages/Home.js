@@ -51,9 +51,9 @@ export default function Home() {
 
   return (
     <section className="container my-5">
-      <h1 className="text-center">Portfolio</h1>
+      <h1 className="navAdjust text-center">Portfolio</h1>
       <hr />
-      <div className="row">
+      <div className="navAdjust row">
         {projects.map((project, index) => (
          <Project project = {project} key= {"project" + index}/>
         ))}
