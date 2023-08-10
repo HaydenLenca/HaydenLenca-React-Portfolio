@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/HaydenLenca-React-Portfolio/static/css/main.d20202a4.css",
-    "main.js": "/HaydenLenca-React-Portfolio/static/js/main.08a6f713.js",
+    "main.css": "/HaydenLenca-React-Portfolio/static/css/main.32a82d8f.css",
+    "main.js": "/HaydenLenca-React-Portfolio/static/js/main.2a468a8d.js",
     "static/js/787.4c67081f.chunk.js": "/HaydenLenca-React-Portfolio/static/js/787.4c67081f.chunk.js",
     "static/media/project3.png": "/HaydenLenca-React-Portfolio/static/media/project3.47951d35b4bff8e60dfc.png",
     "static/media/CoffeeWalks.png": "/HaydenLenca-React-Portfolio/static/media/CoffeeWalks.df129c7f03df5f964b3e.png",
+    "static/media/Screenshot (31).png": "/HaydenLenca-React-Portfolio/static/media/Screenshot (31).7a9d74346dccab2bd6f3.png",
     "static/media/prework.png": "/HaydenLenca-React-Portfolio/static/media/prework.fa4faece276147fcc757.png",
+    "static/media/black.jpg": "/HaydenLenca-React-Portfolio/static/media/black.b8d329302053afaf9515.jpg",
     "static/media/Screenshot (23).png": "/HaydenLenca-React-Portfolio/static/media/Screenshot (23).6d59d1f3146c6b1aa356.png",
     "static/media/imageofme.jpg": "/HaydenLenca-React-Portfolio/static/media/imageofme.9c0a04ee979d2072cfc5.jpg",
     "static/media/Password-display.png": "/HaydenLenca-React-Portfolio/static/media/Password-display.f029b4671784e57eba3e.png",
     "index.html": "/HaydenLenca-React-Portfolio/index.html",
-    "main.d20202a4.css.map": "/HaydenLenca-React-Portfolio/static/css/main.d20202a4.css.map",
-    "main.08a6f713.js.map": "/HaydenLenca-React-Portfolio/static/js/main.08a6f713.js.map",
+    "main.32a82d8f.css.map": "/HaydenLenca-React-Portfolio/static/css/main.32a82d8f.css.map",
+    "main.2a468a8d.js.map": "/HaydenLenca-React-Portfolio/static/js/main.2a468a8d.js.map",
     "787.4c67081f.chunk.js.map": "/HaydenLenca-React-Portfolio/static/js/787.4c67081f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d20202a4.css",
-    "static/js/main.08a6f713.js"
+    "static/css/main.32a82d8f.css",
+    "static/js/main.2a468a8d.js"
   ]
 }
